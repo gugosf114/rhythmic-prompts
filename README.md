@@ -70,6 +70,7 @@ This includes:
 
 Like Melodic Intonation Therapy in speech, the goal isn’t to keep the rhythm forever—it’s to use it as a scaffold until fluency becomes self-sustaining.
 
+Source: “Beyond the Model: The Rhythmic Language Protocol Even OpenAI Hasn’t Designed” — referenced for analysis and commentary only. Full credit to the original author(s).
 
 ## References 
 

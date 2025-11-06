@@ -56,14 +56,22 @@ This includes:
 Like Melodic Intonation Therapy in speech, the goal isn’t to keep the rhythm forever—it’s to use it as a scaffold until fluency becomes self-sustaining.  
 
 ---
+### The Rhythmic Prompt Framework
 
-## Future Work  
+For speech: rhythm guides the brain’s oscillations.  
+For text models: structure guides the model’s attention.  
 
-I’m extending this theory into a second essay, **The Rhythmic Prompt Application**, focused on practical design for text-only LLMs: how to measure, visualize, and apply rhythmic structure to improve model reliability.  
+That connection suggests a new design principle: rhythmic prompting — formatting that provides a steady, predictable beat for attention to lock onto.  
 
----
+This includes:  
+- Consistent use of delimiters and line breaks.  
+- Predictable patterns across examples.  
+- Minimal structural surprises.  
 
-## References (Bluebook format)  
+Like Melodic Intonation Therapy in speech, the goal isn’t to keep the rhythm forever—it’s to use it as a scaffold until fluency becomes self-sustaining.
+
+
+## References 
 
 - *A Single Character Can Make or Break Your LLM Evals*, arXiv preprint (2025).  
 - *ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech Language Models*, arXiv preprint (2024).  
